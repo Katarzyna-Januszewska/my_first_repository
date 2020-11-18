@@ -1,3 +1,1 @@
 Inna zmiana tekstu w pliku.
-
-Dodawanie nowej eksperymentalnej funkconalności.
